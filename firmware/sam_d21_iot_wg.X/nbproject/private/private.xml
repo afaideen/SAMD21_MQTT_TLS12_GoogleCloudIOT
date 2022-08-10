@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/services/iot/cloud/cloud_service.c</url>
+            <bookmark id="2">
+                <name/>
+                <line>178</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>327</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/main.c</file>
+            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/system/int/src/sys_int.c</file>
+            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/system/console/src/sys_console_uart.c</file>
+            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/driver/winc/wdrv_winc.c</file>
+            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/app.c</file>
+        </group>
+    </open-files>
+</project-private>

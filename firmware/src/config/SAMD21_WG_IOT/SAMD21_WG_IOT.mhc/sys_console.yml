@@ -118,4 +118,4 @@ children:
             children:
             - {type: Value, value: SERCOM5_UART}
 - type: ElementPosition
-  attributes: {x: '144', y: '446', id: sys_console}
+  attributes: {x: '144', y: '466', id: sys_console}

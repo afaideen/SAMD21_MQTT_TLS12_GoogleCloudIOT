@@ -17,11 +17,10 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/main.c</file>
-            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/system/int/src/sys_int.c</file>
-            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/system/console/src/sys_console_uart.c</file>
-            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/config/SAMD21_WG_IOT/driver/winc/wdrv_winc.c</file>
-            <file>file:/D:/Microchip/kit/SAM-IOT%20WG/google_cloud_iot_core/firmware/src/app.c</file>
+            <file>file:/D:/harmony/v3/SAMD21_MQTT_TLS12_GoogleCloudIOT/firmware/src/app.c</file>
+            <file>file:/D:/harmony/v3/SAMD21_MQTT_TLS12_GoogleCloudIOT/firmware/src/app_mqtt_task.c</file>
+            <file>file:/D:/harmony/v3/SAMD21_MQTT_TLS12_GoogleCloudIOT/firmware/src/app_mqtt_task.h</file>
+            <file>file:/D:/harmony/v3/SAMD21_MQTT_TLS12_GoogleCloudIOT/firmware/src/third_party/wolfMQTT/wolfmqtt/mqtt_client.h</file>
         </group>
     </open-files>
 </project-private>

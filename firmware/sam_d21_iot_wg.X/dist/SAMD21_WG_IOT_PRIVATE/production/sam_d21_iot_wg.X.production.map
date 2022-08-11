@@ -1317,7 +1317,7 @@ Discarded input sections
                 0x00000000       0x28 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
  .text.m2m_periph_pullup_ctrl
                 0x00000000       0x26 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
- .debug_info    0x00000000     0x14b0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
+ .debug_info    0x00000000     0x14ad build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
  .debug_abbrev  0x00000000      0x259 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
  .debug_loc     0x00000000      0x188 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_periph.o
  .debug_aranges
@@ -1562,7 +1562,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
  .text.inet_ntop
                 0x00000000      0x13a build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
- .debug_info    0x00000000     0x1241 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
+ .debug_info    0x00000000     0x123e build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
  .debug_abbrev  0x00000000      0x1f2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_ntop.o
  .debug_aranges
@@ -1579,7 +1579,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
  .text.inet_addr
                 0x00000000      0x172 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
- .debug_info    0x00000000     0x11e8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
+ .debug_info    0x00000000     0x11e5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
  .debug_abbrev  0x00000000      0x1ed build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/inet_addr.o
  .debug_aranges
@@ -1628,7 +1628,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
  .text.spi_flexible_flash_find_section
                 0x00000000      0x128 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
- .debug_info    0x00000000     0x12a2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
+ .debug_info    0x00000000     0x129f build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
  .debug_abbrev  0x00000000      0x203 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/flexible_flash.o
  .debug_aranges
@@ -1689,7 +1689,7 @@ Discarded input sections
                 0x00000000       0x74 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
  .text.WDRV_WINC_AssociationRSSIGet
                 0x00000000       0x84 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
- .debug_info    0x00000000     0x2a3f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
+ .debug_info    0x00000000     0x2a3c build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
  .debug_abbrev  0x00000000      0x2a4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
  .debug_loc     0x00000000       0xe0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_assoc.o
  .debug_aranges
@@ -1748,7 +1748,7 @@ Discarded input sections
                 0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
  .text.WDRV_WINC_BSSFindInProgress
                 0x00000000       0x30 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
- .debug_info    0x00000000     0x2fec build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
+ .debug_info    0x00000000     0x2fe9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
  .debug_abbrev  0x00000000      0x2e7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
  .debug_loc     0x00000000      0x1f8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssfind.o
  .debug_aranges
@@ -1769,7 +1769,7 @@ Discarded input sections
                 0x00000000       0xdc build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
  .text.WDRV_WINC_CustIEStoreCtxRemoveIE
                 0x00000000       0xf4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
- .debug_info    0x00000000     0x1581 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
+ .debug_info    0x00000000     0x157e build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
  .debug_abbrev  0x00000000      0x23f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
  .debug_loc     0x00000000       0xa8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_custie.o
  .debug_aranges
@@ -1803,7 +1803,7 @@ Discarded input sections
                 0x00000000       0x2a build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
  .text.WDRV_WINC_HTTPProvCtxSetConnectCallback
                 0x00000000       0x24 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
- .debug_info    0x00000000     0x197f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
+ .debug_info    0x00000000     0x197c build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
  .debug_abbrev  0x00000000      0x25f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
  .debug_loc     0x00000000       0xe0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_httpprovctx.o
  .debug_aranges
@@ -1835,7 +1835,7 @@ Discarded input sections
                 0x00000000       0xd8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
  .text.WDRV_WINC_NVMRead
                 0x00000000       0xcc build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
- .debug_info    0x00000000     0x33c0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
+ .debug_info    0x00000000     0x33bd build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
  .debug_abbrev  0x00000000      0x2e1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
  .debug_loc     0x00000000      0x18a build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_nvm.o
  .debug_aranges
@@ -1858,7 +1858,7 @@ Discarded input sections
                 0x00000000       0x5c build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
  .text.WDRV_WINC_PowerSaveManualSleep
                 0x00000000       0x44 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
- .debug_info    0x00000000     0x2b36 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
+ .debug_info    0x00000000     0x2b33 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
  .debug_abbrev  0x00000000      0x26a build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
  .debug_loc     0x00000000       0xe0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_powersave.o
  .debug_aranges
@@ -1910,7 +1910,7 @@ Discarded input sections
                 0x00000000       0x88 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
  .text.WDRV_WINC_APSetCustIE
                 0x00000000       0x5e build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
- .debug_info    0x00000000     0x2d79 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
+ .debug_info    0x00000000     0x2d76 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
  .debug_abbrev  0x00000000      0x2a0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
  .debug_loc     0x00000000       0xaa build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_softap.o
  .debug_aranges
@@ -1943,7 +1943,7 @@ Discarded input sections
                 0x00000000       0x46 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
  .text.WDRV_WINC_SSLStopRetrieveCert
                 0x00000000       0x10 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
- .debug_info    0x00000000     0x3324 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
+ .debug_info    0x00000000     0x3321 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
  .debug_abbrev  0x00000000      0x2f2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
  .debug_loc     0x00000000      0x1c2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_ssl.o
  .debug_aranges
@@ -1985,7 +1985,7 @@ Discarded input sections
                 0x00000000       0x4c build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
  .text.WDRV_WINC_WPSEnrolleeDiscoveryStop
                 0x00000000       0x3e build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
- .debug_info    0x00000000     0x2a32 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
+ .debug_info    0x00000000     0x2a2f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
  .debug_abbrev  0x00000000      0x268 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
  .debug_loc     0x00000000       0xe0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_wps.o
  .debug_aranges
@@ -2220,7 +2220,7 @@ Discarded input sections
  .data          0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
  .text._exit    0x00000000        0xa build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
- .debug_info    0x00000000      0xe87 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
+ .debug_info    0x00000000      0xe84 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
  .debug_abbrev  0x00000000      0x1a1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/libc_syscalls.o
  .debug_aranges
@@ -2256,7 +2256,7 @@ Discarded input sections
                 0x00000000      0x1a0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
  .bss.data.7045
                 0x00000000      0x1a0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
- .debug_info    0x00000000     0x263c build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
+ .debug_info    0x00000000     0x2639 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
  .debug_abbrev  0x00000000      0x22d build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
  .debug_loc     0x00000000      0x11e build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_client.o
  .debug_aranges
@@ -2331,7 +2331,7 @@ Discarded input sections
                 0x00000000      0x11c build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
  .rodata.month_secs.4753
                 0x00000000       0x30 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
- .debug_info    0x00000000     0x1b18 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
+ .debug_info    0x00000000     0x1b15 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
  .debug_abbrev  0x00000000      0x2b8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
  .debug_loc     0x00000000      0x578 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_date.o
  .debug_aranges
@@ -2426,7 +2426,7 @@ Discarded input sections
                 0x00000000       0x32 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
  .rodata.device_sn_dev_loc.5043
                 0x00000000        0x8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
- .debug_info    0x00000000     0x2eb0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
+ .debug_info    0x00000000     0x2ead build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
  .debug_abbrev  0x00000000      0x2fe build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
  .debug_loc     0x00000000      0x869 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_def.o
  .debug_aranges
@@ -2455,7 +2455,7 @@ Discarded input sections
                 0x00000000      0x130 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
  .text.atcacert_der_dec_ecdsa_sig_value
                 0x00000000      0x2c4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
- .debug_info    0x00000000     0x140f build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
+ .debug_info    0x00000000     0x140c build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
  .debug_abbrev  0x00000000      0x255 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
  .debug_loc     0x00000000      0x18a build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_der.o
  .debug_aranges
@@ -2476,7 +2476,7 @@ Discarded input sections
                 0x00000000       0x24 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
  .text.atcacert_verify_response_hw
                 0x00000000       0x62 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
- .debug_info    0x00000000     0x21e5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
+ .debug_info    0x00000000     0x21e2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
  .debug_abbrev  0x00000000      0x208 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
  .debug_loc     0x00000000       0xaa build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_hw.o
  .debug_aranges
@@ -2497,7 +2497,7 @@ Discarded input sections
                 0x00000000       0x26 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
  .text.atcacert_verify_response_sw
                 0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
- .debug_info    0x00000000      0xb73 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
+ .debug_info    0x00000000      0xb70 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
  .debug_abbrev  0x00000000       0xe9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
  .debug_loc     0x00000000       0xaa build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_host_sw.o
  .debug_aranges
@@ -2525,7 +2525,7 @@ Discarded input sections
                 0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
  .text.atcacert_decode_pem_csr
                 0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
- .debug_info    0x00000000     0x1d39 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
+ .debug_info    0x00000000     0x1d36 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
  .debug_abbrev  0x00000000      0x1fb build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
  .debug_loc     0x00000000      0x150 build/SAMD21_WG_IOT_PRIVATE/production/_ext/935147988/atcacert_pem.o
  .debug_aranges
@@ -2583,7 +2583,7 @@ Discarded input sections
                 0x00000000       0x6a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
  .text.atcab_aes_cmac_finish
                 0x00000000      0x190 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
- .debug_info    0x00000000     0x2103 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
+ .debug_info    0x00000000     0x2100 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
  .debug_abbrev  0x00000000      0x27a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
  .debug_loc     0x00000000      0x26e build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_aes.o
  .debug_aranges
@@ -2600,7 +2600,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
  .text.atcab_checkmac
                 0x00000000      0x110 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
- .debug_info    0x00000000     0x1af8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
+ .debug_info    0x00000000     0x1af5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
  .debug_abbrev  0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_checkmac.o
  .debug_aranges
@@ -2621,7 +2621,7 @@ Discarded input sections
                 0x00000000       0x26 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
  .text.atcab_counter_read
                 0x00000000       0x26 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
- .debug_info    0x00000000     0x1b54 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
+ .debug_info    0x00000000     0x1b51 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
  .debug_abbrev  0x00000000      0x1fb build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
  .debug_loc     0x00000000       0xaa build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_counter.o
  .debug_aranges
@@ -2638,7 +2638,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
  .text.atcab_derivekey
                 0x00000000       0xac build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
- .debug_info    0x00000000     0x1acf build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
+ .debug_info    0x00000000     0x1acc build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
  .debug_abbrev  0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_derivekey.o
  .debug_aranges
@@ -2666,7 +2666,7 @@ Discarded input sections
                 0x00000000       0x32 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
  .text.atcab_ecdh_tempkey_ioenc
                 0x00000000       0xb0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
- .debug_info    0x00000000     0x1ded build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
+ .debug_info    0x00000000     0x1dea build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
  .debug_abbrev  0x00000000      0x20a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
  .debug_loc     0x00000000      0x156 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_ecdh.o
  .debug_aranges
@@ -2683,7 +2683,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
  .text.atcab_gendig
                 0x00000000      0x108 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
- .debug_info    0x00000000     0x1b08 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
+ .debug_info    0x00000000     0x1b05 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
  .debug_abbrev  0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_gendig.o
  .debug_aranges
@@ -2705,7 +2705,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
  .text.atcab_hmac
                 0x00000000       0xd0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
- .debug_info    0x00000000     0x1ab5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
+ .debug_info    0x00000000     0x1ab2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
  .debug_abbrev  0x00000000      0x1d0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_hmac.o
  .debug_aranges
@@ -2728,7 +2728,7 @@ Discarded input sections
                 0x00000000       0x62 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
  .text.atcab_info_set_latch
                 0x00000000       0x46 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
- .debug_info    0x00000000     0x1ba6 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
+ .debug_info    0x00000000     0x1ba3 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
  .debug_abbrev  0x00000000      0x20a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
  .debug_loc     0x00000000       0xe2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_info.o
  .debug_aranges
@@ -2745,7 +2745,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
  .text.atcab_kdf
                 0x00000000      0x1b8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
- .debug_info    0x00000000     0x1b1a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
+ .debug_info    0x00000000     0x1b17 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
  .debug_abbrev  0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_kdf.o
  .debug_aranges
@@ -2773,7 +2773,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
  .text.atcab_mac
                 0x00000000       0xe8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
- .debug_info    0x00000000     0x1ad7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
+ .debug_info    0x00000000     0x1ad4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
  .debug_abbrev  0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_mac.o
  .debug_aranges
@@ -2801,7 +2801,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
  .text.atcab_priv_write
                 0x00000000      0x4d0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
- .debug_info    0x00000000     0x1ed1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
+ .debug_info    0x00000000     0x1ece build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
  .debug_abbrev  0x00000000      0x230 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_privwrite.o
  .debug_aranges
@@ -2841,7 +2841,7 @@ Discarded input sections
                 0x00000000      0x100 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
  .text.atcab_secureboot_mac
                 0x00000000      0x2d8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
- .debug_info    0x00000000     0x1f41 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
+ .debug_info    0x00000000     0x1f3e build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
  .debug_abbrev  0x00000000      0x21f build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
  .debug_loc     0x00000000       0x74 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_secureboot.o
  .debug_aranges
@@ -2858,7 +2858,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
  .text.atcab_selftest
                 0x00000000       0xd0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
- .debug_info    0x00000000     0x1ad0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
+ .debug_info    0x00000000     0x1acd build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
  .debug_abbrev  0x00000000      0x1d0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_selftest.o
  .debug_aranges
@@ -2903,7 +2903,7 @@ Discarded input sections
                 0x00000000       0x84 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
  .text.atcab_sha_hmac
                 0x00000000       0xa0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
- .debug_info    0x00000000     0x2180 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
+ .debug_info    0x00000000     0x217d build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
  .debug_abbrev  0x00000000      0x27c build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
  .debug_loc     0x00000000      0x34f build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sha.o
  .debug_aranges
@@ -2925,7 +2925,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
  .text.atcab_updateextra
                 0x00000000       0x9c build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
- .debug_info    0x00000000     0x1ab4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
+ .debug_info    0x00000000     0x1ab1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
  .debug_abbrev  0x00000000      0x1d0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
  .debug_loc     0x00000000       0x3a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_updateextra.o
  .debug_aranges
@@ -2956,7 +2956,7 @@ Discarded input sections
                 0x00000000       0x82 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
  .text.atcab_verify_invalidate
                 0x00000000       0x82 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
- .debug_info    0x00000000     0x2117 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
+ .debug_info    0x00000000     0x2114 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
  .debug_abbrev  0x00000000      0x288 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
  .debug_loc     0x00000000      0x1c4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_verify.o
  .debug_aranges
@@ -2986,7 +2986,7 @@ Discarded input sections
                 0x00000000      0x1d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
  .text.atcab_write_config_counter
                 0x00000000      0x1c0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
- .debug_info    0x00000000     0x22e3 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
+ .debug_info    0x00000000     0x22e0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
  .debug_abbrev  0x00000000      0x29b build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
  .debug_loc     0x00000000      0x190 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_write.o
  .debug_aranges
@@ -3051,7 +3051,7 @@ Discarded input sections
                 0x00000000      0x288 build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
  .rodata.hashContext_h_init.5784
                 0x00000000       0x14 build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
- .debug_info    0x00000000     0x11bd build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
+ .debug_info    0x00000000     0x11ba build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
  .debug_abbrev  0x00000000      0x1c9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
  .debug_loc     0x00000000      0x11a build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha1_routines.o
  .debug_aranges
@@ -3073,7 +3073,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
  .text.atcac_sw_ecdsa_verify_p256
                 0x00000000       0x16 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
- .debug_info    0x00000000      0x66f build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
+ .debug_info    0x00000000      0x66c build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
  .debug_abbrev  0x00000000       0x81 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_ecdsa.o
  .debug_aranges
@@ -3090,7 +3090,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
  .text.atcac_sw_random
                 0x00000000       0x14 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
- .debug_info    0x00000000      0x658 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
+ .debug_info    0x00000000      0x655 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
  .debug_abbrev  0x00000000       0x7a build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
  .debug_loc     0x00000000       0x38 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_rand.o
  .debug_aranges
@@ -3113,7 +3113,7 @@ Discarded input sections
                 0x00000000       0x20 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
  .text.atcac_sw_sha1
                 0x00000000       0x8a build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
- .debug_info    0x00000000     0x1398 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
+ .debug_info    0x00000000     0x1395 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
  .debug_abbrev  0x00000000      0x1f2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
  .debug_loc     0x00000000       0xe2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha1.o
  .debug_aranges
@@ -3191,7 +3191,7 @@ Discarded input sections
                 0x00000000      0x2f8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
  .text.atcah_encode_counter_match
                 0x00000000       0x6c build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
- .debug_info    0x00000000     0x2d90 build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
+ .debug_info    0x00000000     0x2d8d build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
  .debug_abbrev  0x00000000      0x28e build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
  .debug_loc     0x00000000      0x4b8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/627482079/atca_host.o
  .debug_aranges
@@ -3290,7 +3290,7 @@ Discarded input sections
                 0x00000000      0x1b4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
  .rodata.access_key_slot.6632
                 0x00000000        0x1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
- .debug_info    0x00000000     0x2932 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
+ .debug_info    0x00000000     0x292f build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
  .debug_abbrev  0x00000000      0x2b1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
  .debug_loc     0x00000000       0xa0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls_cfg.o
  .debug_aranges
@@ -3322,7 +3322,7 @@ Discarded input sections
                 0x00000000       0x30 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
  .data.cfg_atsha204a_kithid_default
                 0x00000000       0x30 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
- .debug_info    0x00000000      0xc18 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
+ .debug_info    0x00000000      0xc15 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
  .debug_abbrev  0x00000000       0xeb build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
  .debug_aranges
                 0x00000000       0x18 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_cfgs.o
@@ -4844,211 +4844,211 @@ LOAD data_init
  .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
  .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
 
-.debug_info     0x00000000    0xf4373
- .debug_info    0x00000000     0x3b9e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1678205250/drv_spi.o
- .debug_info    0x00003b9e     0x1186 build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_eint.o
- .debug_info    0x00004d24     0x13cd build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_gpio.o
- .debug_info    0x000060f1     0x1bed build/SAMD21_WG_IOT_PRIVATE/production/_ext/2088830217/wdrv_winc_spi.o
- .debug_info    0x00007cde     0x1197 build/SAMD21_WG_IOT_PRIVATE/production/_ext/373976187/nm_common.o
- .debug_info    0x00008e75     0x1e74 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_hif.o
- .debug_info    0x0000ace9     0x6351 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_wifi.o
- .debug_info    0x0001103a     0x1aee build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmasic.o
- .debug_info    0x00012b28     0x166c build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmbus.o
- .debug_info    0x00014194     0x173f build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmdrv.o
- .debug_info    0x000158d3     0x1ef2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmspi.o
- .debug_info    0x000177c5     0x2515 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_ota.o
- .debug_info    0x00019cda     0x1d29 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_ssl.o
- .debug_info    0x0001ba03     0x3061 build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/socket.o
- .debug_info    0x0001ea64     0x1921 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/spi_flash.o
- .debug_info    0x00020385     0x11d2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1461284888/wdrv_winc_osal.o
- .debug_info    0x00021557     0x56a8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc.o
- .debug_info    0x00026bff     0x1c95 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_authctx.o
- .debug_info    0x00028894     0x1682 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssctx.o
- .debug_info    0x00029f16     0x2af7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_host_file.o
- .debug_info    0x0002ca0d     0x2ed2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_socket.o
- .debug_info    0x0002f8df     0x30a4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_sta.o
- .debug_info    0x00032983     0x2cfe build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_systime.o
- .debug_info    0x00035681      0xc7f build/SAMD21_WG_IOT_PRIVATE/production/_ext/485667147/plib_adc.o
- .debug_info    0x00036300      0xa79 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1427407075/plib_clock.o
- .debug_info    0x00036d79     0x1879 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124285686/plib_dmac.o
- .debug_info    0x000385f2      0x6cc build/SAMD21_WG_IOT_PRIVATE/production/_ext/485663148/plib_eic.o
- .debug_info    0x00038cbe      0x32b build/SAMD21_WG_IOT_PRIVATE/production/_ext/1429556561/plib_evsys.o
- .debug_info    0x00038fe9      0x7f0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124592493/plib_nvic.o
- .debug_info    0x000397d9     0x12ec build/SAMD21_WG_IOT_PRIVATE/production/_ext/1194272987/plib_nvmctrl.o
- .debug_info    0x0003aac5      0x7ed build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124645644/plib_port.o
- .debug_info    0x0003b2b2     0x14b8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/485650314/plib_rtc_clock.o
- .debug_info    0x0003c76a     0x14d1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1357986986/plib_sercom3_i2c_master.o
- .debug_info    0x0003dc3b     0x12e4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/866752344/plib_sercom4_spi_master.o
- .debug_info    0x0003ef1f     0x1be0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/27410978/plib_sercom5_usart.o
- .debug_info    0x00040aff      0xc46 build/SAMD21_WG_IOT_PRIVATE/production/_ext/708402758/plib_tc3.o
- .debug_info    0x00041745      0x2aa build/SAMD21_WG_IOT_PRIVATE/production/_ext/1812770719/xc32_monitor.o
- .debug_info    0x000419ef     0x3647 build/SAMD21_WG_IOT_PRIVATE/production/_ext/131504744/sys_command.o
- .debug_info    0x00045036     0x1df1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/325207436/sys_console.o
- .debug_info    0x00046e27     0x1fa4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/325207436/sys_console_uart.o
- .debug_info    0x00048dcb     0x129b build/SAMD21_WG_IOT_PRIVATE/production/_ext/1268222528/sys_dma.o
- .debug_info    0x0004a066      0x990 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1335837964/sys_int.o
- .debug_info    0x0004a9f6     0x2bc8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/157239130/sys_time.o
- .debug_info    0x0004d5be     0x3c05 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/initialization.o
- .debug_info    0x000511c3     0x1699 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/interrupts.o
- .debug_info    0x0005285c     0x110c build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/exceptions.o
- .debug_info    0x00053968     0x11fc build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/startup_xc32.o
- .debug_info    0x00054b64     0x10d4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/tasks.o
- .debug_info    0x00055c38      0xeda build/SAMD21_WG_IOT_PRIVATE/production/_ext/364212162/credentials_storage.o
- .debug_info    0x00056b12     0x1d8d build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic.o
- .debug_info    0x0005889f     0x1b69 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_genkey.o
- .debug_info    0x0005a408     0x1bbd build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_lock.o
- .debug_info    0x0005bfc5     0x1c5f build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_nonce.o
- .debug_info    0x0005dc24     0x1a99 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_random.o
- .debug_info    0x0005f6bd     0x235a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_read.o
- .debug_info    0x00061a17     0x1be5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sign.o
- .debug_info    0x000635fc     0x2351 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_helpers.o
- .debug_info    0x0006594d     0x1299 build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha2_routines.o
- .debug_info    0x00066be6      0x87f build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha2.o
- .debug_info    0x00067465     0x1b62 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/atca_hal.o
- .debug_info    0x00068fc7     0x1e71 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/hal_i2c.o
- .debug_info    0x0006ae38     0x11a9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/hal_timer.o
- .debug_info    0x0006bfe1     0x1d7b build/SAMD21_WG_IOT_PRIVATE/production/_ext/672493136/atca_jwt.o
- .debug_info    0x0006dd5c     0x2d70 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls.o
- .debug_info    0x00070acc     0x1c18 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_command.o
- .debug_info    0x000726e4     0x18ea build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_device.o
- .debug_info    0x00073fce     0x1b6b build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_execution.o
- .debug_info    0x00075b39     0x1aa4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_iface.o
- .debug_info    0x000775dd     0x158b build/SAMD21_WG_IOT_PRIVATE/production/_ext/1207317302/mqtt_comm_layer.o
- .debug_info    0x00078b68     0x32e2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1731314967/mqtt_core.o
- .debug_info    0x0007be4a      0x568 build/SAMD21_WG_IOT_PRIVATE/production/_ext/781924270/mqtt_exchange_buffer.o
- .debug_info    0x0007c3b2      0xf91 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1019103266/mqtt_packetTransfer_interface.o
- .debug_info    0x0007d343     0x2b99 build/SAMD21_WG_IOT_PRIVATE/production/_ext/695851535/bsdWINC.o
- .debug_info    0x0007fedc     0x1a52 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/cryptoauthlib_main.o
- .debug_info    0x0008192e     0x1d5a build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/crypto_client.o
- .debug_info    0x00083688     0x1843 build/SAMD21_WG_IOT_PRIVATE/production/_ext/347544798/mqtt_packetPopulate.o
- .debug_info    0x00084ecb     0x2eb8 build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/cloud_service.o
- .debug_info    0x00087d83     0x1d60 build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/wifi_service.o
- .debug_info    0x00089ae3     0x1701 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/debug_print.o
- .debug_info    0x0008b1e4     0x18a9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/led.o
- .debug_info    0x0008ca8d     0x10bd build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/main.o
- .debug_info    0x0008db4a     0x3f41 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/app.o
- .debug_info    0x00091a8b      0x1f0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
- .debug_info    0x00091c7b       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
- .debug_info    0x00091d69       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
- .debug_info    0x00091e57       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
- .debug_info    0x00091f45       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x00092033     0x13d1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_muldi3.o)
- .debug_info    0x00093404     0x12a0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_fixunsdfsi.o)
- .debug_info    0x000946a4     0x132c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivmoddi4.o)
- .debug_info    0x000959d0      0x58b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divsf3.o)
- .debug_info    0x00095f5b      0x465 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsisf.o)
- .debug_info    0x000963c0      0x7b0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(adddf3.o)
- .debug_info    0x00096b70      0x9c6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divdf3.o)
- .debug_info    0x00097536      0xa41 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(muldf3.o)
- .debug_info    0x00097f77      0x7b0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(subdf3.o)
- .debug_info    0x00098727      0x3bc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixdfsi.o)
- .debug_info    0x00098ae3      0x4fc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsidf.o)
- .debug_info    0x00098fdf      0x47d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(extendsfdf2.o)
- .debug_info    0x0009945c      0x4ee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(truncdfsf2.o)
- .debug_info    0x0009994a       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
- .debug_info    0x00099a38       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uhi.o)
- .debug_info    0x00099b26       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_lshrdi3.o)
- .debug_info    0x00099c14       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_ashldi3.o)
- .debug_info    0x00099d02       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpdf2.o)
- .debug_info    0x00099df0       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
- .debug_info    0x00099ede       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzdi2.o)
- .debug_info    0x00099fcc      0x413 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqdf2.o)
- .debug_info    0x0009a3df      0x43f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gedf2.o)
- .debug_info    0x0009a81e      0x437 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(ledf2.o)
- .debug_info    0x0009ac55      0xdf4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-atoi.o)
- .debug_info    0x0009ba49      0xda0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-calloc.o)
- .debug_info    0x0009c7e9      0xe28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-difftime.o)
- .debug_info    0x0009d611      0xedd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime.o)
- .debug_info    0x0009e4ee      0xfd0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime_r.o)
- .debug_info    0x0009f4be      0xd3c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-impure.o)
- .debug_info    0x000a01fa      0x359 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-init.o)
- .debug_info    0x000a0553      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-malloc.o)
- .debug_info    0x000a1332      0xd94 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcmp.o)
- .debug_info    0x000a20c6      0xdb3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcpy-stub.o)
- .debug_info    0x000a2e79     0x1516 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memmove.o)
- .debug_info    0x000a438f     0x14e8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memset.o)
- .debug_info    0x000a5877     0x124c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mktime.o)
- .debug_info    0x000a6ac3     0x101b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-callocr.o)
- .debug_info    0x000a7ade     0x10ed c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-freer.o)
- .debug_info    0x000a8bcb     0x119a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-mallocr.o)
- .debug_info    0x000a9d65     0x1186 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-printf.o)
- .debug_info    0x000aaeeb      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sbrkr.o)
- .debug_info    0x000abd17     0x120f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-snprintf.o)
- .debug_info    0x000acf26     0x1195 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sprintf.o)
- .debug_info    0x000ae0bb      0x114 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcmp.o)
- .debug_info    0x000ae1cf      0xd58 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcpy.o)
- .debug_info    0x000aef27      0x117 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strlen.o)
- .debug_info    0x000af03e      0xd71 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncmp.o)
- .debug_info    0x000afdaf      0xd99 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncpy.o)
- .debug_info    0x000b0b48      0xd80 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strstr.o)
- .debug_info    0x000b18c8      0xe05 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok.o)
- .debug_info    0x000b26cd      0xe45 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok_r.o)
- .debug_info    0x000b3512     0x184b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtol.o)
- .debug_info    0x000b4d5d     0x1043 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzcalc_limits.o)
- .debug_info    0x000b5da0      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset.o)
- .debug_info    0x000b6b7f     0x1373 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset_r.o)
- .debug_info    0x000b7ef2      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzvars.o)
- .debug_info    0x000b8cd1     0x11dd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-vsnprintf.o)
- .debug_info    0x000b9eae     0x11b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wbuf.o)
- .debug_info    0x000bb061     0x112e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wsetup.o)
- .debug_info    0x000bc18f      0xda5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-div.o)
- .debug_info    0x000bcf34     0x1298 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fflush.o)
- .debug_info    0x000be1cc     0x1470 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-findfp.o)
- .debug_info    0x000bf63c     0x11a9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fwalk.o)
- .debug_info    0x000c07e5      0xed8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-getenv_r.o)
- .debug_info    0x000c16bd      0xf54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gettzinfo.o)
- .debug_info    0x000c2611     0x17cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-locale.o)
- .debug_info    0x000c3de0     0x14e5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-makebuf.o)
- .debug_info    0x000c52c5     0x16a8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mbtowc_r.o)
- .debug_info    0x000c696d      0xd79 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mlock.o)
- .debug_info    0x000c76e6      0xe0b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-month_lengths.o)
- .debug_info    0x000c84f1     0x1bdd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfprintf.o)
- .debug_info    0x000ca0ce     0x26b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
- .debug_info    0x000cc781     0x1d15 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_info    0x000ce496     0x1c9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf.o)
- .debug_info    0x000d0131      0xf2f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-reent.o)
- .debug_info    0x000d1060     0x11cb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sscanf.o)
- .debug_info    0x000d222b     0x188d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssfputs.o)
- .debug_info    0x000d3ab8     0x19b8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssputs.o)
- .debug_info    0x000d5470     0x135a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-stdio.o)
- .debug_info    0x000d67ca     0x1850 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtoul.o)
- .debug_info    0x000d801a     0x166c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wctomb_r.o)
- .debug_info    0x000d9686      0xe4b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-writer.o)
- .debug_info    0x000da4d1      0xdfa c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-closer.o)
- .debug_info    0x000db2cb     0x14b9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ctype_.o)
- .debug_info    0x000dc784     0x2099 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-dtoa.o)
- .debug_info    0x000de81d      0x189 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-environ.o)
- .debug_info    0x000de9a6      0xd77 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-envlock.o)
- .debug_info    0x000df71d     0x12ea c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fputwc.o)
- .debug_info    0x000e0a07     0x10f5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fstatr.o)
- .debug_info    0x000e1afc      0xe07 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-isattyr.o)
- .debug_info    0x000e2903     0x1635 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-localeconv.o)
- .debug_info    0x000e3f38      0xe32 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-lseekr.o)
- .debug_info    0x000e4d6a      0xdb2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memchr-stub.o)
- .debug_info    0x000e5b1c     0x24be c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mprec.o)
- .debug_info    0x000e7fda     0x109b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-reallocr.o)
- .debug_info    0x000e9075     0x1de8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfscanf.o)
- .debug_info    0x000eae5d     0x1c75 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfscanf_i.o)
- .debug_info    0x000ecad2      0xe49 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-readr.o)
- .debug_info    0x000ed91b     0x108c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sccl.o)
- .debug_info    0x000ee9a7     0x1274 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ungetc.o)
- .debug_info    0x000efc1b     0x16a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wcrtomb.o)
- .debug_info    0x000f12bf      0xfd4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-msizer.o)
- .debug_info    0x000f2293      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_close.o)
- .debug_info    0x000f246a      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_fstat.o)
- .debug_info    0x000f2641      0x1d9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_isatty.o)
- .debug_info    0x000f281a      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_lseek.o)
- .debug_info    0x000f29f1      0x1d5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_read.o)
- .debug_info    0x000f2bc6      0x1d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
- .debug_info    0x000f2d99      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_write.o)
- .debug_info    0x000f2f70      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(close.o)
- .debug_info    0x000f3144      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(fstat.o)
- .debug_info    0x000f3318      0x1d6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(isatty.o)
- .debug_info    0x000f34ee      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(lseek.o)
- .debug_info    0x000f36c2      0x1d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(read.o)
- .debug_info    0x000f3895      0x1d5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(write.o)
- .debug_info    0x000f3a6a      0x415 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
- .debug_info    0x000f3e7f      0x4f4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
+.debug_info     0x00000000    0xf427d
+ .debug_info    0x00000000     0x3b9b build/SAMD21_WG_IOT_PRIVATE/production/_ext/1678205250/drv_spi.o
+ .debug_info    0x00003b9b     0x1183 build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_eint.o
+ .debug_info    0x00004d1e     0x13ca build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_gpio.o
+ .debug_info    0x000060e8     0x1bea build/SAMD21_WG_IOT_PRIVATE/production/_ext/2088830217/wdrv_winc_spi.o
+ .debug_info    0x00007cd2     0x1194 build/SAMD21_WG_IOT_PRIVATE/production/_ext/373976187/nm_common.o
+ .debug_info    0x00008e66     0x1e71 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_hif.o
+ .debug_info    0x0000acd7     0x634e build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_wifi.o
+ .debug_info    0x00011025     0x1aeb build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmasic.o
+ .debug_info    0x00012b10     0x1669 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmbus.o
+ .debug_info    0x00014179     0x173c build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmdrv.o
+ .debug_info    0x000158b5     0x1eef build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/nmspi.o
+ .debug_info    0x000177a4     0x2512 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_ota.o
+ .debug_info    0x00019cb6     0x1d26 build/SAMD21_WG_IOT_PRIVATE/production/_ext/405265080/m2m_ssl.o
+ .debug_info    0x0001b9dc     0x305e build/SAMD21_WG_IOT_PRIVATE/production/_ext/831742467/socket.o
+ .debug_info    0x0001ea3a     0x191e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1091366131/spi_flash.o
+ .debug_info    0x00020358     0x11cf build/SAMD21_WG_IOT_PRIVATE/production/_ext/1461284888/wdrv_winc_osal.o
+ .debug_info    0x00021527     0x56a5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc.o
+ .debug_info    0x00026bcc     0x1c92 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_authctx.o
+ .debug_info    0x0002885e     0x167f build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_bssctx.o
+ .debug_info    0x00029edd     0x2af4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_host_file.o
+ .debug_info    0x0002c9d1     0x2ecf build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_socket.o
+ .debug_info    0x0002f8a0     0x30a1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_sta.o
+ .debug_info    0x00032941     0x2cfb build/SAMD21_WG_IOT_PRIVATE/production/_ext/845676186/wdrv_winc_systime.o
+ .debug_info    0x0003563c      0xc7c build/SAMD21_WG_IOT_PRIVATE/production/_ext/485667147/plib_adc.o
+ .debug_info    0x000362b8      0xa76 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1427407075/plib_clock.o
+ .debug_info    0x00036d2e     0x1876 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124285686/plib_dmac.o
+ .debug_info    0x000385a4      0x6c9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/485663148/plib_eic.o
+ .debug_info    0x00038c6d      0x328 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1429556561/plib_evsys.o
+ .debug_info    0x00038f95      0x7ed build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124592493/plib_nvic.o
+ .debug_info    0x00039782     0x12e9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1194272987/plib_nvmctrl.o
+ .debug_info    0x0003aa6b      0x7ea build/SAMD21_WG_IOT_PRIVATE/production/_ext/2124645644/plib_port.o
+ .debug_info    0x0003b255     0x14b5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/485650314/plib_rtc_clock.o
+ .debug_info    0x0003c70a     0x14ce build/SAMD21_WG_IOT_PRIVATE/production/_ext/1357986986/plib_sercom3_i2c_master.o
+ .debug_info    0x0003dbd8     0x12e1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/866752344/plib_sercom4_spi_master.o
+ .debug_info    0x0003eeb9     0x1bdd build/SAMD21_WG_IOT_PRIVATE/production/_ext/27410978/plib_sercom5_usart.o
+ .debug_info    0x00040a96      0xc43 build/SAMD21_WG_IOT_PRIVATE/production/_ext/708402758/plib_tc3.o
+ .debug_info    0x000416d9      0x2a7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1812770719/xc32_monitor.o
+ .debug_info    0x00041980     0x3644 build/SAMD21_WG_IOT_PRIVATE/production/_ext/131504744/sys_command.o
+ .debug_info    0x00044fc4     0x1dee build/SAMD21_WG_IOT_PRIVATE/production/_ext/325207436/sys_console.o
+ .debug_info    0x00046db2     0x1fa1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/325207436/sys_console_uart.o
+ .debug_info    0x00048d53     0x1298 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1268222528/sys_dma.o
+ .debug_info    0x00049feb      0x98d build/SAMD21_WG_IOT_PRIVATE/production/_ext/1335837964/sys_int.o
+ .debug_info    0x0004a978     0x2bc5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/157239130/sys_time.o
+ .debug_info    0x0004d53d     0x3c02 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/initialization.o
+ .debug_info    0x0005113f     0x1696 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/interrupts.o
+ .debug_info    0x000527d5     0x1109 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/exceptions.o
+ .debug_info    0x000538de     0x11f9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/startup_xc32.o
+ .debug_info    0x00054ad7     0x10d1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/853479/tasks.o
+ .debug_info    0x00055ba8      0xed7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/364212162/credentials_storage.o
+ .debug_info    0x00056a7f     0x1d8a build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic.o
+ .debug_info    0x00058809     0x1b66 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_genkey.o
+ .debug_info    0x0005a36f     0x1bba build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_lock.o
+ .debug_info    0x0005bf29     0x1c5c build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_nonce.o
+ .debug_info    0x0005db85     0x1a96 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_random.o
+ .debug_info    0x0005f61b     0x2357 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_read.o
+ .debug_info    0x00061972     0x1be2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_basic_sign.o
+ .debug_info    0x00063554     0x234e build/SAMD21_WG_IOT_PRIVATE/production/_ext/2028850473/atca_helpers.o
+ .debug_info    0x000658a2     0x1296 build/SAMD21_WG_IOT_PRIVATE/production/_ext/626928883/sha2_routines.o
+ .debug_info    0x00066b38      0x87c build/SAMD21_WG_IOT_PRIVATE/production/_ext/1574659896/atca_crypto_sw_sha2.o
+ .debug_info    0x000673b4     0x1b5f build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/atca_hal.o
+ .debug_info    0x00068f13     0x1e6e build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/hal_i2c.o
+ .debug_info    0x0006ad81     0x11a6 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672495748/hal_timer.o
+ .debug_info    0x0006bf27     0x1d78 build/SAMD21_WG_IOT_PRIVATE/production/_ext/672493136/atca_jwt.o
+ .debug_info    0x0006dc9f     0x2d6d build/SAMD21_WG_IOT_PRIVATE/production/_ext/672483868/atcatls.o
+ .debug_info    0x00070a0c     0x1c15 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_command.o
+ .debug_info    0x00072621     0x18e7 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_device.o
+ .debug_info    0x00073f08     0x1b68 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_execution.o
+ .debug_info    0x00075a70     0x1aa1 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1837493384/atca_iface.o
+ .debug_info    0x00077511     0x1588 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1207317302/mqtt_comm_layer.o
+ .debug_info    0x00078a99     0x32df build/SAMD21_WG_IOT_PRIVATE/production/_ext/1731314967/mqtt_core.o
+ .debug_info    0x0007bd78      0x565 build/SAMD21_WG_IOT_PRIVATE/production/_ext/781924270/mqtt_exchange_buffer.o
+ .debug_info    0x0007c2dd      0xf8e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1019103266/mqtt_packetTransfer_interface.o
+ .debug_info    0x0007d26b     0x2b96 build/SAMD21_WG_IOT_PRIVATE/production/_ext/695851535/bsdWINC.o
+ .debug_info    0x0007fe01     0x1a4f build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/cryptoauthlib_main.o
+ .debug_info    0x00081850     0x1d57 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/crypto_client.o
+ .debug_info    0x000835a7     0x1840 build/SAMD21_WG_IOT_PRIVATE/production/_ext/347544798/mqtt_packetPopulate.o
+ .debug_info    0x00084de7     0x2eb5 build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/cloud_service.o
+ .debug_info    0x00087c9c     0x1d5d build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/wifi_service.o
+ .debug_info    0x000899f9     0x16fe build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/debug_print.o
+ .debug_info    0x0008b0f7     0x18a6 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/led.o
+ .debug_info    0x0008c99d     0x10ba build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/main.o
+ .debug_info    0x0008da57     0x3f3e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/app.o
+ .debug_info    0x00091995      0x1f0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_info    0x00091b85       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_info    0x00091c73       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_info    0x00091d61       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00091e4f       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00091f3d     0x13d1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_muldi3.o)
+ .debug_info    0x0009330e     0x12a0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x000945ae     0x132c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000958da      0x58b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divsf3.o)
+ .debug_info    0x00095e65      0x465 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsisf.o)
+ .debug_info    0x000962ca      0x7b0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(adddf3.o)
+ .debug_info    0x00096a7a      0x9c6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divdf3.o)
+ .debug_info    0x00097440      0xa41 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(muldf3.o)
+ .debug_info    0x00097e81      0x7b0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(subdf3.o)
+ .debug_info    0x00098631      0x3bc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixdfsi.o)
+ .debug_info    0x000989ed      0x4fc c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsidf.o)
+ .debug_info    0x00098ee9      0x47d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(extendsfdf2.o)
+ .debug_info    0x00099366      0x4ee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(truncdfsf2.o)
+ .debug_info    0x00099854       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_info    0x00099942       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uhi.o)
+ .debug_info    0x00099a30       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_lshrdi3.o)
+ .debug_info    0x00099b1e       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_ashldi3.o)
+ .debug_info    0x00099c0c       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x00099cfa       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_info    0x00099de8       0xee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzdi2.o)
+ .debug_info    0x00099ed6      0x413 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqdf2.o)
+ .debug_info    0x0009a2e9      0x43f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gedf2.o)
+ .debug_info    0x0009a728      0x437 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(ledf2.o)
+ .debug_info    0x0009ab5f      0xdf4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-atoi.o)
+ .debug_info    0x0009b953      0xda0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-calloc.o)
+ .debug_info    0x0009c6f3      0xe28 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-difftime.o)
+ .debug_info    0x0009d51b      0xedd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime.o)
+ .debug_info    0x0009e3f8      0xfd0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime_r.o)
+ .debug_info    0x0009f3c8      0xd3c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-impure.o)
+ .debug_info    0x000a0104      0x359 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-init.o)
+ .debug_info    0x000a045d      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-malloc.o)
+ .debug_info    0x000a123c      0xd94 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcmp.o)
+ .debug_info    0x000a1fd0      0xdb3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x000a2d83     0x1516 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memmove.o)
+ .debug_info    0x000a4299     0x14e8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memset.o)
+ .debug_info    0x000a5781     0x124c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mktime.o)
+ .debug_info    0x000a69cd     0x101b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-callocr.o)
+ .debug_info    0x000a79e8     0x10ed c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x000a8ad5     0x119a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x000a9c6f     0x1186 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-printf.o)
+ .debug_info    0x000aadf5      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000abc21     0x120f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-snprintf.o)
+ .debug_info    0x000ace30     0x1195 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sprintf.o)
+ .debug_info    0x000adfc5      0x114 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcmp.o)
+ .debug_info    0x000ae0d9      0xd58 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcpy.o)
+ .debug_info    0x000aee31      0x117 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strlen.o)
+ .debug_info    0x000aef48      0xd71 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncmp.o)
+ .debug_info    0x000afcb9      0xd99 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncpy.o)
+ .debug_info    0x000b0a52      0xd80 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strstr.o)
+ .debug_info    0x000b17d2      0xe05 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok.o)
+ .debug_info    0x000b25d7      0xe45 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok_r.o)
+ .debug_info    0x000b341c     0x184b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtol.o)
+ .debug_info    0x000b4c67     0x1043 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzcalc_limits.o)
+ .debug_info    0x000b5caa      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset.o)
+ .debug_info    0x000b6a89     0x1373 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset_r.o)
+ .debug_info    0x000b7dfc      0xddf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzvars.o)
+ .debug_info    0x000b8bdb     0x11dd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-vsnprintf.o)
+ .debug_info    0x000b9db8     0x11b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wbuf.o)
+ .debug_info    0x000baf6b     0x112e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wsetup.o)
+ .debug_info    0x000bc099      0xda5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-div.o)
+ .debug_info    0x000bce3e     0x1298 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fflush.o)
+ .debug_info    0x000be0d6     0x1470 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-findfp.o)
+ .debug_info    0x000bf546     0x11a9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fwalk.o)
+ .debug_info    0x000c06ef      0xed8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-getenv_r.o)
+ .debug_info    0x000c15c7      0xf54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gettzinfo.o)
+ .debug_info    0x000c251b     0x17cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-locale.o)
+ .debug_info    0x000c3cea     0x14e5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-makebuf.o)
+ .debug_info    0x000c51cf     0x16a8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_info    0x000c6877      0xd79 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mlock.o)
+ .debug_info    0x000c75f0      0xe0b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-month_lengths.o)
+ .debug_info    0x000c83fb     0x1bdd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_info    0x000c9fd8     0x26b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
+ .debug_info    0x000cc68b     0x1d15 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x000ce3a0     0x1c9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x000d003b      0xf2f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-reent.o)
+ .debug_info    0x000d0f6a     0x11cb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sscanf.o)
+ .debug_info    0x000d2135     0x188d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssfputs.o)
+ .debug_info    0x000d39c2     0x19b8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssputs.o)
+ .debug_info    0x000d537a     0x135a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-stdio.o)
+ .debug_info    0x000d66d4     0x1850 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtoul.o)
+ .debug_info    0x000d7f24     0x166c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_info    0x000d9590      0xe4b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-writer.o)
+ .debug_info    0x000da3db      0xdfa c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-closer.o)
+ .debug_info    0x000db1d5     0x14b9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ctype_.o)
+ .debug_info    0x000dc68e     0x2099 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-dtoa.o)
+ .debug_info    0x000de727      0x189 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-environ.o)
+ .debug_info    0x000de8b0      0xd77 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-envlock.o)
+ .debug_info    0x000df627     0x12ea c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fputwc.o)
+ .debug_info    0x000e0911     0x10f5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fstatr.o)
+ .debug_info    0x000e1a06      0xe07 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-isattyr.o)
+ .debug_info    0x000e280d     0x1635 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-localeconv.o)
+ .debug_info    0x000e3e42      0xe32 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-lseekr.o)
+ .debug_info    0x000e4c74      0xdb2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_info    0x000e5a26     0x24be c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mprec.o)
+ .debug_info    0x000e7ee4     0x109b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_info    0x000e8f7f     0x1de8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfscanf.o)
+ .debug_info    0x000ead67     0x1c75 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .debug_info    0x000ec9dc      0xe49 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-readr.o)
+ .debug_info    0x000ed825     0x108c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sccl.o)
+ .debug_info    0x000ee8b1     0x1274 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ungetc.o)
+ .debug_info    0x000efb25     0x16a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wcrtomb.o)
+ .debug_info    0x000f11c9      0xfd4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_info    0x000f219d      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_close.o)
+ .debug_info    0x000f2374      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_fstat.o)
+ .debug_info    0x000f254b      0x1d9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_isatty.o)
+ .debug_info    0x000f2724      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_lseek.o)
+ .debug_info    0x000f28fb      0x1d5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_read.o)
+ .debug_info    0x000f2ad0      0x1d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+ .debug_info    0x000f2ca3      0x1d7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_write.o)
+ .debug_info    0x000f2e7a      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(close.o)
+ .debug_info    0x000f304e      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(fstat.o)
+ .debug_info    0x000f3222      0x1d6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(isatty.o)
+ .debug_info    0x000f33f8      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(lseek.o)
+ .debug_info    0x000f35cc      0x1d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(read.o)
+ .debug_info    0x000f379f      0x1d5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(write.o)
+ .debug_info    0x000f3974      0x415 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
+ .debug_info    0x000f3d89      0x4f4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
 
 .debug_abbrev   0x00000000    0x16569
  .debug_abbrev  0x00000000      0x404 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1678205250/drv_spi.o
@@ -6031,7 +6031,7 @@ LOAD data_init
  .debug_ranges  0x00003730       0x40 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
  .debug_ranges  0x00003770       0x48 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
 
-.debug_line     0x00000000    0x246aa
+.debug_line     0x00000000    0x246a4
  .debug_line    0x00000000      0x8c4 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1678205250/drv_spi.o
  .debug_line    0x000008c4      0x2c9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_eint.o
  .debug_line    0x00000b8d      0x2e2 build/SAMD21_WG_IOT_PRIVATE/production/_ext/328869906/wdrv_winc_gpio.o
@@ -6106,136 +6106,136 @@ LOAD data_init
  .debug_line    0x000119ff      0x198 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1019103266/mqtt_packetTransfer_interface.o
  .debug_line    0x00011b97      0x6f0 build/SAMD21_WG_IOT_PRIVATE/production/_ext/695851535/bsdWINC.o
  .debug_line    0x00012287      0x304 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/cryptoauthlib_main.o
- .debug_line    0x0001258b      0x420 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/crypto_client.o
- .debug_line    0x000129ab      0x3ec build/SAMD21_WG_IOT_PRIVATE/production/_ext/347544798/mqtt_packetPopulate.o
- .debug_line    0x00012d97      0x911 build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/cloud_service.o
- .debug_line    0x000136a8      0x53e build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/wifi_service.o
- .debug_line    0x00013be6      0x37e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/debug_print.o
- .debug_line    0x00013f64      0x454 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/led.o
- .debug_line    0x000143b8      0x240 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/main.o
- .debug_line    0x000145f8      0x7b9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/app.o
- .debug_line    0x00014db1       0xe3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
- .debug_line    0x00014e94       0xb3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
- .debug_line    0x00014f47       0xc1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
- .debug_line    0x00015008       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
- .debug_line    0x000150a4       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_aeabi_uldivmod.o)
- .debug_line    0x0001514b      0x296 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_muldi3.o)
- .debug_line    0x000153e1      0x28c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_fixunsdfsi.o)
- .debug_line    0x0001566d      0x2b2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivmoddi4.o)
- .debug_line    0x0001591f      0x161 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divsf3.o)
- .debug_line    0x00015a80      0x137 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsisf.o)
- .debug_line    0x00015bb7      0x1c8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(adddf3.o)
- .debug_line    0x00015d7f      0x1a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divdf3.o)
- .debug_line    0x00015f23      0x182 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(muldf3.o)
- .debug_line    0x000160a5      0x1cd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(subdf3.o)
- .debug_line    0x00016272      0x12f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixdfsi.o)
- .debug_line    0x000163a1      0x12a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsidf.o)
- .debug_line    0x000164cb      0x145 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(extendsfdf2.o)
- .debug_line    0x00016610      0x154 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(truncdfsf2.o)
- .debug_line    0x00016764       0xa4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
- .debug_line    0x00016808       0xa5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uhi.o)
- .debug_line    0x000168ad       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_lshrdi3.o)
- .debug_line    0x00016954       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_ashldi3.o)
- .debug_line    0x000169fb       0xb4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpdf2.o)
- .debug_line    0x00016aaf       0xb0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
- .debug_line    0x00016b5f       0xa6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzdi2.o)
- .debug_line    0x00016c05      0x14c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqdf2.o)
- .debug_line    0x00016d51      0x14c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gedf2.o)
- .debug_line    0x00016e9d      0x14f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(ledf2.o)
- .debug_line    0x00016fec      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-atoi.o)
- .debug_line    0x000171fe      0x203 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-calloc.o)
- .debug_line    0x00017401      0x20d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-difftime.o)
- .debug_line    0x0001760e      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime.o)
- .debug_line    0x0001782d      0x264 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime_r.o)
- .debug_line    0x00017a91      0x17e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-impure.o)
- .debug_line    0x00017c0f      0x118 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-init.o)
- .debug_line    0x00017d27      0x224 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-malloc.o)
- .debug_line    0x00017f4b      0x20a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcmp.o)
- .debug_line    0x00018155      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcpy-stub.o)
- .debug_line    0x00018371      0x2b9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memmove.o)
- .debug_line    0x0001862a      0x2ad c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memset.o)
- .debug_line    0x000188d7      0x355 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mktime.o)
- .debug_line    0x00018c2c      0x219 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-callocr.o)
- .debug_line    0x00018e45      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-freer.o)
- .debug_line    0x00019019      0x259 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-mallocr.o)
- .debug_line    0x00019272      0x263 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-printf.o)
- .debug_line    0x000194d5      0x214 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sbrkr.o)
- .debug_line    0x000196e9      0x298 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-snprintf.o)
- .debug_line    0x00019981      0x27a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sprintf.o)
- .debug_line    0x00019bfb       0xb1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcmp.o)
- .debug_line    0x00019cac      0x205 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcpy.o)
- .debug_line    0x00019eb1       0xb1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strlen.o)
- .debug_line    0x00019f62      0x20d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncmp.o)
- .debug_line    0x0001a16f      0x20f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncpy.o)
- .debug_line    0x0001a37e      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strstr.o)
- .debug_line    0x0001a590      0x20b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok.o)
- .debug_line    0x0001a79b      0x23b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok_r.o)
- .debug_line    0x0001a9d6      0x360 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtol.o)
- .debug_line    0x0001ad36      0x27e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzcalc_limits.o)
- .debug_line    0x0001afb4      0x20a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset.o)
- .debug_line    0x0001b1be      0x2f1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset_r.o)
- .debug_line    0x0001b4af      0x17e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzvars.o)
- .debug_line    0x0001b62d      0x274 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-vsnprintf.o)
- .debug_line    0x0001b8a1      0x27d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wbuf.o)
- .debug_line    0x0001bb1e      0x26c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wsetup.o)
- .debug_line    0x0001bd8a      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-div.o)
- .debug_line    0x0001bf9c      0x2d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fflush.o)
- .debug_line    0x0001c26f      0x315 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-findfp.o)
- .debug_line    0x0001c584      0x269 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fwalk.o)
- .debug_line    0x0001c7ed      0x24b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-getenv_r.o)
- .debug_line    0x0001ca38      0x218 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gettzinfo.o)
- .debug_line    0x0001cc50      0x32f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-locale.o)
- .debug_line    0x0001cf7f      0x328 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-makebuf.o)
- .debug_line    0x0001d2a7      0x2d9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mbtowc_r.o)
- .debug_line    0x0001d580      0x18e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mlock.o)
- .debug_line    0x0001d70e      0x1fe c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-month_lengths.o)
- .debug_line    0x0001d90c      0x425 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfprintf.o)
- .debug_line    0x0001dd31      0x59a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
- .debug_line    0x0001e2cb      0x490 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_line    0x0001e75b      0x447 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf.o)
- .debug_line    0x0001eba2      0x23f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-reent.o)
- .debug_line    0x0001ede1      0x289 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sscanf.o)
- .debug_line    0x0001f06a      0x365 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssfputs.o)
- .debug_line    0x0001f3cf      0x393 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssputs.o)
- .debug_line    0x0001f762      0x2a3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-stdio.o)
- .debug_line    0x0001fa05      0x352 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtoul.o)
- .debug_line    0x0001fd57      0x2cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wctomb_r.o)
- .debug_line    0x00020026      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-writer.o)
- .debug_line    0x00020237      0x215 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-closer.o)
- .debug_line    0x0002044c      0x21e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ctype_.o)
- .debug_line    0x0002066a      0x65e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-dtoa.o)
- .debug_line    0x00020cc8       0x8e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-environ.o)
- .debug_line    0x00020d56      0x202 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-envlock.o)
- .debug_line    0x00020f58      0x2a0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fputwc.o)
- .debug_line    0x000211f8      0x2c3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fstatr.o)
- .debug_line    0x000214bb      0x216 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-isattyr.o)
- .debug_line    0x000216d1      0x268 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-localeconv.o)
- .debug_line    0x00021939      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-lseekr.o)
- .debug_line    0x00021b4a      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memchr-stub.o)
- .debug_line    0x00021d66      0x6f2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mprec.o)
- .debug_line    0x00022458      0x223 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-reallocr.o)
- .debug_line    0x0002267b      0x4b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfscanf.o)
- .debug_line    0x00022b2e      0x4eb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfscanf_i.o)
- .debug_line    0x00023019      0x210 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-readr.o)
- .debug_line    0x00023229      0x240 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sccl.o)
- .debug_line    0x00023469      0x2be c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ungetc.o)
- .debug_line    0x00023727      0x2ee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wcrtomb.o)
- .debug_line    0x00023a15      0x1a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-msizer.o)
- .debug_line    0x00023bb9       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_close.o)
- .debug_line    0x00023c56       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_fstat.o)
- .debug_line    0x00023cf3       0x9e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_isatty.o)
- .debug_line    0x00023d91       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_lseek.o)
- .debug_line    0x00023e2e       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_read.o)
- .debug_line    0x00023eca       0xa4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
- .debug_line    0x00023f6e       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_write.o)
- .debug_line    0x0002400b       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(close.o)
- .debug_line    0x000240a6      0x104 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(fstat.o)
- .debug_line    0x000241aa       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(isatty.o)
- .debug_line    0x00024246       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(lseek.o)
- .debug_line    0x000242e1       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(read.o)
- .debug_line    0x0002438f       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(write.o)
- .debug_line    0x0002443d      0x141 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
- .debug_line    0x0002457e      0x12c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
+ .debug_line    0x0001258b      0x41d build/SAMD21_WG_IOT_PRIVATE/production/_ext/1688231369/crypto_client.o
+ .debug_line    0x000129a8      0x3ec build/SAMD21_WG_IOT_PRIVATE/production/_ext/347544798/mqtt_packetPopulate.o
+ .debug_line    0x00012d94      0x90e build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/cloud_service.o
+ .debug_line    0x000136a2      0x53e build/SAMD21_WG_IOT_PRIVATE/production/_ext/711616579/wifi_service.o
+ .debug_line    0x00013be0      0x37e build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/debug_print.o
+ .debug_line    0x00013f5e      0x454 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/led.o
+ .debug_line    0x000143b2      0x240 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/main.o
+ .debug_line    0x000145f2      0x7b9 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1360937237/app.o
+ .debug_line    0x00014dab       0xe3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(data_init.o)
+ .debug_line    0x00014e8e       0xb3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivsi3.o)
+ .debug_line    0x00014f41       0xc1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_divsi3.o)
+ .debug_line    0x00015002       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0001509e       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00015145      0x296 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_muldi3.o)
+ .debug_line    0x000153db      0x28c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x00015667      0x2b2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00015919      0x161 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divsf3.o)
+ .debug_line    0x00015a7a      0x137 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsisf.o)
+ .debug_line    0x00015bb1      0x1c8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(adddf3.o)
+ .debug_line    0x00015d79      0x1a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(divdf3.o)
+ .debug_line    0x00015f1d      0x182 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(muldf3.o)
+ .debug_line    0x0001609f      0x1cd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(subdf3.o)
+ .debug_line    0x0001626c      0x12f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(fixdfsi.o)
+ .debug_line    0x0001639b      0x12a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatsidf.o)
+ .debug_line    0x000164c5      0x145 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(extendsfdf2.o)
+ .debug_line    0x0001660a      0x154 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(truncdfsf2.o)
+ .debug_line    0x0001675e       0xa4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uqi.o)
+ .debug_line    0x00016802       0xa5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_thumb1_case_uhi.o)
+ .debug_line    0x000168a7       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_lshrdi3.o)
+ .debug_line    0x0001694e       0xa7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_ashldi3.o)
+ .debug_line    0x000169f5       0xb4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x00016aa9       0xb0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzsi2.o)
+ .debug_line    0x00016b59       0xa6 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(_clzdi2.o)
+ .debug_line    0x00016bff      0x14c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(eqdf2.o)
+ .debug_line    0x00016d4b      0x14c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(gedf2.o)
+ .debug_line    0x00016e97      0x14f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(ledf2.o)
+ .debug_line    0x00016fe6      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-atoi.o)
+ .debug_line    0x000171f8      0x203 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-calloc.o)
+ .debug_line    0x000173fb      0x20d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-difftime.o)
+ .debug_line    0x00017608      0x21f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime.o)
+ .debug_line    0x00017827      0x264 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gmtime_r.o)
+ .debug_line    0x00017a8b      0x17e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-impure.o)
+ .debug_line    0x00017c09      0x118 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-init.o)
+ .debug_line    0x00017d21      0x224 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-malloc.o)
+ .debug_line    0x00017f45      0x20a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcmp.o)
+ .debug_line    0x0001814f      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_line    0x0001836b      0x2b9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memmove.o)
+ .debug_line    0x00018624      0x2ad c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memset.o)
+ .debug_line    0x000188d1      0x355 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mktime.o)
+ .debug_line    0x00018c26      0x219 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-callocr.o)
+ .debug_line    0x00018e3f      0x1d4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x00019013      0x259 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x0001926c      0x263 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-printf.o)
+ .debug_line    0x000194cf      0x214 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x000196e3      0x298 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-snprintf.o)
+ .debug_line    0x0001997b      0x27a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sprintf.o)
+ .debug_line    0x00019bf5       0xb1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcmp.o)
+ .debug_line    0x00019ca6      0x205 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strcpy.o)
+ .debug_line    0x00019eab       0xb1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strlen.o)
+ .debug_line    0x00019f5c      0x20d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncmp.o)
+ .debug_line    0x0001a169      0x20f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strncpy.o)
+ .debug_line    0x0001a378      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strstr.o)
+ .debug_line    0x0001a58a      0x20b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok.o)
+ .debug_line    0x0001a795      0x23b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtok_r.o)
+ .debug_line    0x0001a9d0      0x360 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtol.o)
+ .debug_line    0x0001ad30      0x27e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzcalc_limits.o)
+ .debug_line    0x0001afae      0x20a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset.o)
+ .debug_line    0x0001b1b8      0x2f1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzset_r.o)
+ .debug_line    0x0001b4a9      0x17e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-tzvars.o)
+ .debug_line    0x0001b627      0x274 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-vsnprintf.o)
+ .debug_line    0x0001b89b      0x27d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wbuf.o)
+ .debug_line    0x0001bb18      0x26c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wsetup.o)
+ .debug_line    0x0001bd84      0x212 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-div.o)
+ .debug_line    0x0001bf96      0x2d3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fflush.o)
+ .debug_line    0x0001c269      0x315 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-findfp.o)
+ .debug_line    0x0001c57e      0x269 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fwalk.o)
+ .debug_line    0x0001c7e7      0x24b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-getenv_r.o)
+ .debug_line    0x0001ca32      0x218 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-gettzinfo.o)
+ .debug_line    0x0001cc4a      0x32f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-locale.o)
+ .debug_line    0x0001cf79      0x328 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-makebuf.o)
+ .debug_line    0x0001d2a1      0x2d9 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_line    0x0001d57a      0x18e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mlock.o)
+ .debug_line    0x0001d708      0x1fe c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-month_lengths.o)
+ .debug_line    0x0001d906      0x425 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_line    0x0001dd2b      0x59a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
+ .debug_line    0x0001e2c5      0x490 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0001e755      0x447 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x0001eb9c      0x23f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-reent.o)
+ .debug_line    0x0001eddb      0x289 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sscanf.o)
+ .debug_line    0x0001f064      0x365 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssfputs.o)
+ .debug_line    0x0001f3c9      0x393 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-__ssputs.o)
+ .debug_line    0x0001f75c      0x2a3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-stdio.o)
+ .debug_line    0x0001f9ff      0x352 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-strtoul.o)
+ .debug_line    0x0001fd51      0x2cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_line    0x00020020      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-writer.o)
+ .debug_line    0x00020231      0x215 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-closer.o)
+ .debug_line    0x00020446      0x21e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ctype_.o)
+ .debug_line    0x00020664      0x65e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-dtoa.o)
+ .debug_line    0x00020cc2       0x8e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-environ.o)
+ .debug_line    0x00020d50      0x202 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-envlock.o)
+ .debug_line    0x00020f52      0x2a0 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fputwc.o)
+ .debug_line    0x000211f2      0x2c3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-fstatr.o)
+ .debug_line    0x000214b5      0x216 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-isattyr.o)
+ .debug_line    0x000216cb      0x268 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-localeconv.o)
+ .debug_line    0x00021933      0x211 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-lseekr.o)
+ .debug_line    0x00021b44      0x21c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_line    0x00021d60      0x6f2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-mprec.o)
+ .debug_line    0x00022452      0x223 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_line    0x00022675      0x4b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-svfscanf.o)
+ .debug_line    0x00022b28      0x4eb c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .debug_line    0x00023013      0x210 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-readr.o)
+ .debug_line    0x00023223      0x240 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-sccl.o)
+ .debug_line    0x00023463      0x2be c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-ungetc.o)
+ .debug_line    0x00023721      0x2ee c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-wcrtomb.o)
+ .debug_line    0x00023a0f      0x1a4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_line    0x00023bb3       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_close.o)
+ .debug_line    0x00023c50       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_fstat.o)
+ .debug_line    0x00023ced       0x9e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_isatty.o)
+ .debug_line    0x00023d8b       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_lseek.o)
+ .debug_line    0x00023e28       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_read.o)
+ .debug_line    0x00023ec4       0xa4 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(sbrk.o)
+ .debug_line    0x00023f68       0x9d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(_write.o)
+ .debug_line    0x00024005       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(close.o)
+ .debug_line    0x000240a0      0x104 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(fstat.o)
+ .debug_line    0x000241a4       0x9c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(isatty.o)
+ .debug_line    0x00024240       0x9b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(lseek.o)
+ .debug_line    0x000242db       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(read.o)
+ .debug_line    0x00024389       0xae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib\libpic32c.a(write.o)
+ .debug_line    0x00024437      0x141 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(unorddf2.o)
+ .debug_line    0x00024578      0x12c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1\libgcc.a(floatunsidf.o)
 
 .debug_str      0x00000000     0x3a17
  .debug_str     0x00000000      0x170 build/SAMD21_WG_IOT_PRIVATE/production/_ext/1678205250/drv_spi.o

@@ -3,6 +3,9 @@
 This demonstration comprises components such as MQTT, and TLSv1.2.
 It has connection to the service provided by Google Cloud IOT.
 Microprocessor used is ATSAMD21G18A based on ARM Cortex M0+.
+Some good references you may refer to,
+- https://www.youtube.com/watch?v=76v16P-Wqe4
+- https://www.youtube.com/watch?v=3Zwlj9x96Jg&t=44s
 
 ### Environment:
 1. Board: SAM-IOT WG, EV75S95A
